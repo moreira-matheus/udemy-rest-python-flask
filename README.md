@@ -14,3 +14,18 @@
 - <u>Section 05</u>: Advanced Python.
 - <u>Section 06</u>: REST application with [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) (in memory).
 - <u>Section 07</u>: REST API integrated with database.
+- <u>Section 08</u>: REST user application with [JWT](https://jwt.io/).
+- <u>Section 09</u>: Applying advanced filters with query parameters.
+
+### Running
+
+```bash
+cd ./section<XX>/
+conda activate <env>
+python app.py
+```
+
+### Useful links
+
+https://learning.postman.com/docs/sending-requests/authorization/#api-key
+
